@@ -5,8 +5,8 @@ The bot currently runs as @TheCoupBot.
 
 To run the bot yourself, you will need:
 
-Python (tested with 3.6+)
-The python-telegram-bot module (tested with 8.0+)
+- Python (tested with 3.6+)
+- The python-telegram-bot module (tested with 8.0+)
 
 Get a bot token from @BotFather and change <TOKEN> in shared_vars.py.
 Install requirements (using a virtualenv is recommended): pip install -r requirements.txt
